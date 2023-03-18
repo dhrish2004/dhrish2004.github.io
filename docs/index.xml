@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://dhrish2004.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dhrish2004.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Kernel Setup for debugging</title>
+      <link>https://dhrish2004.github.io/2/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhrish2004.github.io/2/</guid>
+      <description>Table of Contents  Introduction Steps Conclusion  Introduction This post is about setting up Linux Kernel for debugging.
+Steps  Build a kernel Build an image Launch virtual machine Attach and setup debugger Build, load and debug a test module  Build a kernel  Download a kernel  wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.9.7.tar.xz Extract  tar -xf linux-5.9.7.tar.xz Build an image    Launch virtual machine    Attach and setup debugger    Build, load and debug a test module    Conclusion </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://dhrish2004.github.io/1/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhrish2004.github.io/1/</guid>
+      <description>Table of Contents  Introduction Contact  Introduction My name is Dhriti Shikhar. I am a computer programmer. This blog is a collection of some of my learnings.
+Contact  Email: dhriti [DOT] shikhar [DOT] rokz [AT] gmail [DOT] com Github: https://github.com/DhritiShikhar/ Twitter: https://twitter.com/dhritishikhar/  </description>
+    </item>
+    
+  </channel>
+</rss>
